@@ -8,10 +8,10 @@ One of the founders of **HZ Digital** [![GitHub Trophies](https://github-profile
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zakariabarkawi&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabarkawi&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
     </td>
   </tr>
 </table>
