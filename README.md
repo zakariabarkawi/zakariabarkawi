@@ -23,21 +23,7 @@
 
 <div align="center">
 
-# GitHub Activity 📈
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariabarkawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zakaria's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabarkawi&layout=compact&theme=tokyonight&hide_border=true" alt="Zakaria's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zakariabarkawi&theme=tokyonight&margin-w=10&margin-h=10" alt="Zakaria's GitHub Trophies" />
-</p>
-
-</div>
 ---
 
 ### 🚀 Major Projects
