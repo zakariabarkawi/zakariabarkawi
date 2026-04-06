@@ -36,8 +36,11 @@
 
 ### ⚡ Professional Focus
  🖥️ **System Configuration:** Deep knowledge in hardware & software integration.
- 🐧 **Linux Power User:** Expert in distribution customization (Arch, Mint).
+ <br>
+ 🐧 **Linux Power User:** Expert in distribution customization.
+ <br> 
  🕹️ **Game Development:** Experience in building interactive digital experiences.
+ <br>
  🌐 **Modern UI/UX:** Specialized in Dark Mode and Glassmorphism design patterns.
 
 <br />
