@@ -27,10 +27,10 @@
 ---
 
 ### 🚀 Major Projects
-* **Barkawi Browser:** A custom-built, lightweight web browser.
-* **HZ Digital:** My core platform for web solutions and AI.
-* **ZabHub:** Advanced developer synchronization platform.
-* **Ai Beast Pro:** High-performance TradingView technical indicators.
+ **Barkawi Browser:** A custom-built, lightweight web browser.
+ **HZ Digital:** My core platform for web solutions and AI.
+ **ZabHub:** Advanced developer synchronization platform.
+ **Ai Beast Pro:** High-performance TradingView technical indicators.
 
 ---
 
