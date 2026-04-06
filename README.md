@@ -35,10 +35,10 @@
 ---
 
 ### ⚡ Professional Focus
-- 🖥️ **System Configuration:** Deep knowledge in hardware & software integration.
-- 🐧 **Linux Power User:** Expert in distribution customization (Arch, Mint).
-- 🕹️ **Game Development:** Experience in building interactive digital experiences.
-- 🌐 **Modern UI/UX:** Specialized in Dark Mode and Glassmorphism design patterns.
+ 🖥️ **System Configuration:** Deep knowledge in hardware & software integration.
+ 🐧 **Linux Power User:** Expert in distribution customization (Arch, Mint).
+ 🕹️ **Game Development:** Experience in building interactive digital experiences.
+ 🌐 **Modern UI/UX:** Specialized in Dark Mode and Glassmorphism design patterns.
 
 <br />
 
