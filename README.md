@@ -32,6 +32,7 @@
 
  **HZ Digital:** My core platform for web solutions and AI.
  <br>
+ 
  **ZabHub:** Advanced developer synchronization platform.
  <br>
  
