@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi there! I'm Zakaria Barkawi 👋
-### IT Professional | Full-Stack Web Developer | Founder of HZ Digital
-And Zabhub
+### IT Professional | Full-Stack Web Developer 
 
 <p align="center">
   <a href="https://zakaria-barkawi.pages.dev">
@@ -23,7 +22,17 @@ And Zabhub
 ---
 
 <div align="center">
+---
 
+### Founder
+ Founder **HZ Digital**
+ <br>
+
+ Founder **ZabHub**
+ <br>
+ 
+
+    
 
 ---
 
