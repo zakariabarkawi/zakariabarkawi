@@ -72,7 +72,7 @@
 
 <div align="center">
 
-**`ZAKARIA_BARKAWI@SERVER:~$`** `sudo build --future`
+**`ZAKARIA_BARKAWI@:ZAB~$`** `sudo build --future`
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer" width="100%"/>
 
