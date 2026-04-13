@@ -1,87 +1,57 @@
 <div align="center">
 
-# ✨ Welcome to the Domain of Zakaria Barkawi ✨
-### 🚀 Founder of ZabHub | Expert Full-Stack Developer | Linux Specialist
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=250&section=header&text=ZAKARIA%20BARKAWI&fontSize=70&animation=fadeIn&fontAlignY=35&desc=THE%20ARCHITECT%20OF%20ZABHUB&descAlignY=60&descSize=25" width="100%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<br/>
 
-[![Website](https://img.shields.io/badge/My%20World-Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zakaria-barkawi.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariabarkawi)
+### 👨‍💻 System.Status: `Active`
+**IT Professional | Full-Stack Developer | Linux Elite**
+
+[![Website](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://zakaria-barkawi.pages.dev)
+[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariabarkawi)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
 
 </div>
 
 ---
 
-### 🛠️ The Tech Arsenal
+### 🌌 The Core Engine (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,electron,dotnet,cpp,linux,arch,mint,git,github,cloudflare,figma,powershell,bash" />
+</div>
+
+---
+
+### 💎 Masterpieces (The Projects)
 
 <div align="center">
 
-| Section | Skills & Tools |
+| 🚀 [ZabHub Pro](https://github.com/zakariabarkawi/ZabHub) | 🌐 [Barkawi Browser](https://github.com/zakariabarkawi/Barkawi-Browser) |
 | :--- | :--- |
-| **🎨 Frontend Mastery** | <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend" /> |
-| **⚙️ Desktop & Software** | <img src="https://skillicons.dev/icons?i=electron,dotnet,cpp,qt" alt="Software" /> |
-| **🐧 Linux Elite** | <img src="https://skillicons.dev/icons?i=linux,arch,mint,debian" alt="OS" /> |
-| **🔧 DevOps & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,figma" alt="Tools" /> |
+| **Electron-based Powerhouse** | **C# / WebView2 Custom Engine** |
+| *Syncing the developer world.* | *High-end standalone performance.* |
+
+| 📈 [Ai Beast Pro](https://github.com/zakariabarkawi) | 🧠 [Zab AI](https://github.com/zakariabarkawi) |
+| :--- | :--- |
+| **PineScript Algorithmic Mastery** | **AI-Powered Learning Journey** |
+| *Trading with precision.* | *Shaping the next generation.* |
 
 </div>
 
 ---
 
-### 💎 Signature Products
+### 🖥️ Environment Log (Dev-Ops)
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <b>🚀 ZabHub Pro</b><br/>
-      <p>The core synchronization platform for developers.</p>
-    </td>
-    <td align="center">
-      <b>🌐 Barkawi Browser</b><br/>
-      <p>A high-performance standalone browser built on C# & WebView2.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>⚡ Ai Beast Pro</b><br/>
-      <p>Algorithmic trading excellence with custom PineScript indicators.</p>
-    </td>
-    <td align="center">
-      <b>🧠 Zab AI</b><br/>
-      <p>Innovating educational experiences through artificial intelligence.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 📊 System Analytics & Status
-
-<div align="center">
-
-| Specialization | Design Aesthetic | Dev Environment |
-| :--- | :--- | :--- |
-| Full-Stack Architecture | Glassmorphism & Neon | Arch / Linux Mint / QEMU |
-
-<br/>
-
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakariabarkawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabarkawi&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariabarkawi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer" width="100%"/>
-  <p><i>"Crafting efficient digital worlds, one line of code at a time."</i></p>
-</div>
+```ascii
+          _
+      _  / |      OS: Arch / Linux Mint
+     / \ | |      Terminal: Ghostty / Kitty
+    |  | | |      IDE: VS Code / Visual Studio
+  _ |  | | | _    Theme: Tokyo Night (Glassmorphism)
+ / \|  |_| |/ \   Virtualization: Virt-Manager / QEMU
+|   `--' `--'   | Target: High-Performance Systems
+ \_           _/
+   `--.   .--'
+       | |
