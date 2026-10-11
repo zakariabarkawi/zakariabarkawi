@@ -47,17 +47,7 @@
 
 ---
 
-### 📊 System Performance Metrics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakariabarkawi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabarkawi&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" />
-
-<br/>
-
-
-</div>
 
 ---
 
