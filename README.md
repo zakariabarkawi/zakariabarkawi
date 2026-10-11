@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=ZAKARIA%20BARKAWI&fontSize=80&animation=fadeIn&fontAlignY=35&desc=THE%20SYSTEM%20ARCHITECT&descAlignY=60&descSize=20&fontColor=00d4ff" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Founder+of+ZabHub;Linux+Systems+Expert;Full-Stack+Web+Developer;Algorithmic+Trading+Dev" alt="Typing SVG" />
-</p>
 
 ---
 
