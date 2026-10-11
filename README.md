@@ -20,11 +20,11 @@
 ### Core Technologies (Binary Stack)
 <div align="center">
 
-|  Frontend Core |  Backend & Desktop | UI/UX DNA |
+|  Frontend Core |  Backend & Desktop 
 | :--- | :--- | :--- |
-| `HTML5 / CSS3` | `C# / .NET / C++` | `Glassmorphism` |
-| `JavaScript / TS` | `Electron.js` | `Neon / Dark Mode` |
-| `React / Web2` | `Node.js` | `Professional Branding` |
+| `HTML5 / CSS3` | `C# / .NET / C++` |
+| `JavaScript / TS` | `Electron.js`|
+| `React / Web2` | `Node.js` | 
 
 </div>
 
