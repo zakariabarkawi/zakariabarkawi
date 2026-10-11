@@ -43,8 +43,7 @@
 
 - **🚀 [ZabHub](https://github.com/zakariabarkawi):** Advanced desktop client for seamless Git/GitHub management.
 - **🌐 [Barkawi Browser](https://github.com/zakariabarkawi):** Lightweight, C#-powered standalone web experience.
-- **📈 [Ai Beast Pro](https://github.com/zakariabarkawi):** High-performance trading indicators and market analysis scripts.
-- **🧠 [Zab AI](https://github.com/zakariabarkawi):** Educational AI integration for future-ready students.
+- **🧠 [VZ Chat](https://github.com/zakariabarkawi):** Privacy Social media app .
 
 ---
 
