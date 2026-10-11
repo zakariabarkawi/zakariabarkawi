@@ -56,7 +56,6 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariabarkawi&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff" width="100%" />
 
 </div>
 
